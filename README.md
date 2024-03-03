@@ -1,17 +1,17 @@
-#Simulador de Gestión de Procesos#
+***Simulador de Gestión de Procesos***
 
 Este proyecto es un simulador básico de gestión de procesos en un sistema operativo. 
 Utiliza SimPy para simular la ejecución de procesos en la CPU y la gestión de la memoria RAM.
 
-Parámetros Personalizables
+***Parámetros Personalizables***
+
 semilla_aleatoria: La semilla para la generación de números aleatorios.
 capacidad_ram: La capacidad total de la memoria RAM en unidades.
 intervalo_creacion_procesos: El intervalo medio de creación de nuevos procesos.
 instrucciones_cpu_por_tiempo: La cantidad de instrucciones de CPU ejecutadas por unidad de tiempo.
 cantidad_procesos: El número total de procesos a simular.
 
-
-#Decisión Final#
+***Decisión Final***
 
 Tomando en cuenta todos los resultados obtenidos se puede reflejar un cambio drástico entre los tiempos 
 promedio de cada tipo de proceso dependiendo de cada intervalo y memoria  accesible. Al analizar los resultados,
